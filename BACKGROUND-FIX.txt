@@ -1,0 +1,3 @@
+Background fix: both forest.webp and forest-background.webp are included.
+If Chrome still shows an old blank/background state, stop the local server, reopen it, then use Ctrl+Shift+R in Chrome.
+If the service worker has an old cache, Chrome DevTools > Application > Service Workers > Unregister, then reload.

@@ -1,0 +1,10 @@
+Collection UI update
+======================
+- Wired cropped achievement WebP assets from assets/achievements/ into the achievement data.
+- Replaced legacy PNG references with the new WebP paths.
+- Added all cropped achievement bars to the Collection route as themed progression headers.
+- Added the supplied celestial/tarot image as a Collection-only background.
+- Collection achievement art no longer has a circular border/background.
+- Achievements without dedicated art use emoji.
+- Collection-only styling uses deep violet/indigo/pink/gold glass/tarot styling; other routes keep their existing forest theme.
+- Service-worker cache bumped to v10 and updated with the new assets.
