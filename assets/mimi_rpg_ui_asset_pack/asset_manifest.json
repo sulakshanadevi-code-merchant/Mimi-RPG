@@ -1,0 +1,385 @@
+{
+  "source_size": [
+    1536,
+    1024
+  ],
+  "assets": {
+    "character/mimi-portrait.png": {
+      "source_box_xyxy": [
+        10,
+        12,
+        420,
+        468
+      ],
+      "size": [
+        410,
+        456
+      ],
+      "webp": "character/mimi-portrait.webp"
+    },
+    "stats/strength.png": {
+      "source_box_xyxy": [
+        408,
+        34,
+        558,
+        176
+      ],
+      "size": [
+        150,
+        142
+      ],
+      "webp": "stats/strength.webp"
+    },
+    "stats/intelligence.png": {
+      "source_box_xyxy": [
+        548,
+        34,
+        698,
+        176
+      ],
+      "size": [
+        150,
+        142
+      ],
+      "webp": "stats/intelligence.webp"
+    },
+    "stats/vitality.png": {
+      "source_box_xyxy": [
+        685,
+        34,
+        835,
+        176
+      ],
+      "size": [
+        150,
+        142
+      ],
+      "webp": "stats/vitality.webp"
+    },
+    "stats/wisdom.png": {
+      "source_box_xyxy": [
+        820,
+        34,
+        970,
+        176
+      ],
+      "size": [
+        150,
+        142
+      ],
+      "webp": "stats/wisdom.webp"
+    },
+    "stats/charisma.png": {
+      "source_box_xyxy": [
+        955,
+        34,
+        1110,
+        176
+      ],
+      "size": [
+        155,
+        142
+      ],
+      "webp": "stats/charisma.webp"
+    },
+    "stats/discipline.png": {
+      "source_box_xyxy": [
+        1085,
+        34,
+        1242,
+        176
+      ],
+      "size": [
+        157,
+        142
+      ],
+      "webp": "stats/discipline.webp"
+    },
+    "stats/willpower.png": {
+      "source_box_xyxy": [
+        1210,
+        34,
+        1368,
+        176
+      ],
+      "size": [
+        158,
+        142
+      ],
+      "webp": "stats/willpower.webp"
+    },
+    "stats/resilience.png": {
+      "source_box_xyxy": [
+        1350,
+        34,
+        1525,
+        176
+      ],
+      "size": [
+        147,
+        142
+      ],
+      "webp": "stats/resilience.webp"
+    },
+    "navigation/home.png": {
+      "source_box_xyxy": [
+        430,
+        232,
+        585,
+        370
+      ],
+      "size": [
+        155,
+        137
+      ],
+      "webp": "navigation/home.webp"
+    },
+    "navigation/quests.png": {
+      "source_box_xyxy": [
+        595,
+        232,
+        755,
+        370
+      ],
+      "size": [
+        160,
+        137
+      ],
+      "webp": "navigation/quests.webp"
+    },
+    "navigation/progress.png": {
+      "source_box_xyxy": [
+        760,
+        232,
+        925,
+        370
+      ],
+      "size": [
+        165,
+        136
+      ],
+      "webp": "navigation/progress.webp"
+    },
+    "navigation/collection.png": {
+      "source_box_xyxy": [
+        925,
+        232,
+        1095,
+        370
+      ],
+      "size": [
+        170,
+        137
+      ],
+      "webp": "navigation/collection.webp"
+    },
+    "navigation/history.png": {
+      "source_box_xyxy": [
+        1085,
+        232,
+        1265,
+        370
+      ],
+      "size": [
+        180,
+        137
+      ],
+      "webp": "navigation/history.webp"
+    },
+    "navigation/profile.png": {
+      "source_box_xyxy": [
+        1265,
+        232,
+        1450,
+        370
+      ],
+      "size": [
+        185,
+        137
+      ],
+      "webp": "navigation/profile.webp"
+    },
+    "panels/dark-panel-large.png": {
+      "source_box_xyxy": [
+        10,
+        468,
+        420,
+        715
+      ],
+      "size": [
+        410,
+        247
+      ],
+      "webp": "panels/dark-panel-large.webp"
+    },
+    "panels/parchment-panel.png": {
+      "source_box_xyxy": [
+        425,
+        458,
+        760,
+        715
+      ],
+      "size": [
+        335,
+        256
+      ],
+      "webp": "panels/parchment-panel.webp"
+    },
+    "panels/dark-panel-wide.png": {
+      "source_box_xyxy": [
+        755,
+        555,
+        1098,
+        692
+      ],
+      "size": [
+        341,
+        137
+      ],
+      "webp": "panels/dark-panel-wide.webp"
+    },
+    "panels/hud-strip.png": {
+      "source_box_xyxy": [
+        758,
+        455,
+        1097,
+        560
+      ],
+      "size": [
+        339,
+        100
+      ],
+      "webp": "panels/hud-strip.webp"
+    },
+    "status/quest-complete.png": {
+      "source_box_xyxy": [
+        15,
+        730,
+        238,
+        814
+      ],
+      "size": [
+        223,
+        84
+      ],
+      "webp": "status/quest-complete.webp"
+    },
+    "status/at-risk.png": {
+      "source_box_xyxy": [
+        245,
+        730,
+        474,
+        814
+      ],
+      "size": [
+        229,
+        84
+      ],
+      "webp": "status/at-risk.webp"
+    },
+    "status/recovery.png": {
+      "source_box_xyxy": [
+        482,
+        730,
+        715,
+        814
+      ],
+      "size": [
+        233,
+        84
+      ],
+      "webp": "status/recovery.webp"
+    },
+    "status/confirm.png": {
+      "source_box_xyxy": [
+        15,
+        835,
+        238,
+        912
+      ],
+      "size": [
+        223,
+        77
+      ],
+      "webp": "status/confirm.webp"
+    },
+    "status/cancel.png": {
+      "source_box_xyxy": [
+        250,
+        835,
+        471,
+        912
+      ],
+      "size": [
+        220,
+        77
+      ],
+      "webp": "status/cancel.webp"
+    },
+    "bars/hp-bar.png": {
+      "source_box_xyxy": [
+        1090,
+        525,
+        1455,
+        605
+      ],
+      "size": [
+        365,
+        80
+      ],
+      "webp": "bars/hp-bar.webp"
+    },
+    "bars/gold-bar.png": {
+      "source_box_xyxy": [
+        1090,
+        600,
+        1455,
+        682
+      ],
+      "size": [
+        365,
+        82
+      ],
+      "webp": "bars/gold-bar.webp"
+    },
+    "decorations/horizontal-divider.png": {
+      "source_box_xyxy": [
+        735,
+        695,
+        1120,
+        835
+      ],
+      "size": [
+        385,
+        140
+      ],
+      "webp": "decorations/horizontal-divider.webp"
+    },
+    "decorations/ornate-ring.png": {
+      "source_box_xyxy": [
+        1110,
+        680,
+        1335,
+        815
+      ],
+      "size": [
+        225,
+        135
+      ],
+      "webp": "decorations/ornate-ring.webp"
+    },
+    "decorations/crescent-banner.png": {
+      "source_box_xyxy": [
+        1325,
+        690,
+        1535,
+        1020
+      ],
+      "size": [
+        202,
+        307
+      ],
+      "webp": "decorations/crescent-banner.webp"
+    }
+  }
+}

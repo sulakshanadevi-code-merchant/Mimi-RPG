@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#1d4a42"/>
+      <stop offset="100%" stop-color="#0a1a16"/>
+    </radialGradient>
+    <linearGradient id="cloak" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a5c52"/>
+      <stop offset="100%" stop-color="#122c26"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" fill="url(#bg)"/>
+  <!-- moon -->
+  <circle cx="70" cy="22" r="9" fill="#f0d193" opacity=".85"/>
+  <!-- figure -->
+  <path d="M48 30c8 0 13 6 13 13 0 5-2 8-4 10 10 4 17 13 19 25H20c2-12 9-21 19-25-2-2-4-5-4-10 0-7 5-13 13-13z" fill="url(#cloak)"/>
+  <circle cx="48" cy="43" r="11" fill="#e8dcc0"/>
+  <path d="M37 41c1-7 6-11 11-11s10 4 11 11c-3-3-7-4-11-4s-8 1-11 4z" fill="#173f39"/>
+  <circle cx="44" cy="44" r="1.4" fill="#173f39"/>
+  <circle cx="52" cy="44" r="1.4" fill="#173f39"/>
+  <path d="M45 49c2 1.4 4 1.4 6 0" stroke="#173f39" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+  <!-- clasp -->
+  <circle cx="48" cy="62" r="2.6" fill="#d6b26a"/>
+</svg>
