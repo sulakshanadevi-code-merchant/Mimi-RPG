@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#090313">
+    <meta name="color-scheme" content="dark">
+    <meta name="description" content="Mimi is a private, local-first life RPG.">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="manifest" href="./manifest.webmanifest">
+    <link rel="icon" href="./assets/icons/mimi-icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="./assets/icons/mimi-icon.svg">
+    <link rel="stylesheet" href="./css/app.css">
+    <title>Mimi</title>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="#home" aria-label="Mimi home">
+          <img src="./assets/icons/mimi-mark.svg" width="28" height="28" alt="">
+          <span>MIMI</span>
+        </a>
+        <span class="phase-label">STRONGER THAN YESTERDAY</span>
+      </header>
+
+      <main id="app" class="screen" tabindex="-1" aria-live="polite"></main>
+
+      <nav class="bottom-nav" aria-label="Primary navigation">
+        <a href="#home" data-route="home" aria-label="Home"><img src="./assets/mimi_rpg_ui_asset_pack/navigation/home.webp" alt=""><span>Home</span></a>
+        <a href="#quests" data-route="quests" aria-label="Quests"><img src="./assets/mimi_rpg_ui_asset_pack/navigation/quests.webp" alt=""><span>Quests</span></a>
+        <a href="#progress" data-route="progress" aria-label="Progress"><img src="./assets/mimi_rpg_ui_asset_pack/navigation/progress.webp" alt=""><span>Progress</span></a>
+        <a href="#collection" data-route="collection" aria-label="Collection"><img src="./assets/mimi_rpg_ui_asset_pack/navigation/collection.webp" alt=""><span>Collection</span></a>
+        <a href="#history" data-route="history" aria-label="History"><img src="./assets/mimi_rpg_ui_asset_pack/navigation/history.webp" alt=""><span>History</span></a>
+        <a href="#profile" data-route="profile" aria-label="Profile"><img src="./assets/mimi_rpg_ui_asset_pack/navigation/profile.webp" alt=""><span>Profile</span></a>
+      </nav>
+    </div>
+    <noscript>Mimi needs JavaScript enabled to run.</noscript>
+    <script type="module" src="./js/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+Requested fixes applied:
+- XP image removed; custom celestial XP text + fill bar implemented.
+- Collection headings are structurally above their empty bars; bars preserve natural aspect ratio.
+- Good Doctor / Great Discipline use point wording. Good Doctor thresholds are 25/50/100/200/350/550/750.
+- Good Doctor rank art maps tiers 3/4/5/6/GOD to rank_god_doctor_01/02/03/04/rank_god.
+- Past-date home ledger and correction workflow added. Completed quest can be uncompleted; projection removes its XP/gold/stats/points.
+- Historical metric logging (study/quantities/skincare) is supported.
+- Done quests glow; missed quests can be corrected.
+- Skin care rewards: once +10 XP/+2 Gold, twice +20 XP/+4 Gold; skincare day achievements added.
+- Achievement art uses contained sizing with no cropping; Mahoraga and the named milestone/rank assets use the provided cropped files.
+- PWA version bumped to 0.4.0 and service-worker shell bumped to v12.
+- Existing provided achievement crops are used directly; no new asset-sheet crop is included.
